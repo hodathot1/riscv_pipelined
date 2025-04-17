@@ -1,5 +1,6 @@
-## Cách chạy 
-- .\run_sim.bat
+## Cách chạy
+# cd .\riscv_pipelined
+# .\run_sim.bat
 chọn 1-6
 - 1. Mô phỏng IF Stage
 - 2. Mô phỏng ID Stage
